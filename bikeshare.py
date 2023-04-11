@@ -149,6 +149,9 @@ def trip_duration_stats(df):
     # Trip Duration stats:
     # identify and display total travel time
     print('Total Travel Time =',df['Trip Duration'].sum(),'seconds')
+
+    # identify and display max travel time
+    print('Max Travel Time =',df['Trip Duration'].max(),'seconds')
     
     # identify and display mean travel time
     print('Mean Travel Time =',df['Trip Duration'].mean(),'seconds')
