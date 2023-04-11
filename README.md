@@ -13,4 +13,6 @@ A project to learn how to use version control to save and share your projects wi
 * [Git commands document template](https://video.udacity-data.com/topher/2020/March/5e7cf0be_git-commands-documentation/git-commands-documentation.pdf)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+* [Git documentation](https://git-scm.com/doc)
+* [Github documentation](https://docs.github.com/en)
+* [Stackoverflow](https://stackoverflow.com/)
