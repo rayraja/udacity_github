@@ -4,7 +4,7 @@ April 11 2023
 # Post your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+A project to learn how to use version control to save and share your projects with others.
 
 ### Files used
 Include the files used
