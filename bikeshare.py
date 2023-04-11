@@ -196,6 +196,7 @@ def main():
         raw_data = input('\nWould you like to see raw data? Enter (Yes/No) : ').lower()
         df['Start Time'] = df['Start Time'].dt.strftime('%Y-%m-%d %H:%M:%S')
         while raw_data == 'yes':
+            print("\nHere is your raw data\n")
             # print first 5 rows as dictionary
             print(json.dumps(df.head(rows).to_dict('index'), indent=1))
             raw_data = input('Would you like to see more raw data? Enter (Yes/No) : ').lower()
